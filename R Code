@@ -160,7 +160,7 @@ msep
 rmsep<-sqrt(msep)
 
 # ===============================
-# Baseline models; Classical PCA with ARIMA Forecasting, Holt-Winters and Brillinger's DPCA with ARIMA forecasting. Section 5.3.
+# Baseline models; Classical PCA with ARIMA Forecasting, Holt-Winters and Brillinger's DPCA with ARIMA forecasting. 
 # ===============================
 
 # Perform PCA
